@@ -1,0 +1,180 @@
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\bin\Debug\net5.0\appsettings.Development.json
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\bin\Debug\net5.0\appsettings.json
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\bin\Debug\net5.0\Backend2.exe
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\bin\Debug\net5.0\Backend2.deps.json
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\bin\Debug\net5.0\Backend2.runtimeconfig.json
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\bin\Debug\net5.0\Backend2.runtimeconfig.dev.json
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\bin\Debug\net5.0\Backend2.dll
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\bin\Debug\net5.0\ref\Backend2.dll
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\bin\Debug\net5.0\Backend2.pdb
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\bin\Debug\net5.0\Backend2.Views.dll
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\bin\Debug\net5.0\Backend2.Views.pdb
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Backend2.csprojAssemblyReference.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Backend2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Backend2.AssemblyInfoInputs.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Backend2.AssemblyInfo.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Backend2.csproj.CoreCompileInputs.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Backend2.MvcApplicationPartsAssemblyInfo.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Backend2.RazorAssemblyInfo.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Backend2.RazorAssemblyInfo.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\staticwebassets\Backend2.StaticWebAssets.Manifest.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\staticwebassets\Backend2.StaticWebAssets.xml
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\scopedcss\bundle\Backend2.styles.css
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Backend2.TagHelpers.input.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Backend2.TagHelpers.output.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Backend2.RazorCoreGenerate.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Razor\Views\Calc\Manual.cshtml.g.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Razor\Views\Calc\ManualWithSeparateHandlers.cshtml.g.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Razor\Views\Calc\ModelBindingInParameters.cshtml.g.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Razor\Views\Calc\ModelBindingInSeparateModel.cshtml.g.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Razor\Views\Calc\Result.cshtml.g.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Backend2.RazorTargetAssemblyInfo.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Backend2.RazorTargetAssemblyInfo.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Backend2.Views.pdb
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Backend2.dll
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\ref\Backend2.dll
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Backend2.pdb
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Backend2.genruntimeconfig.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web2.931801.stepanov.pavel.lab2-master\Backend2\obj\Debug\net5.0\Backend2.csproj.CopyComplete
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\bin\Debug\net5.0\appsettings.Development.json
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\bin\Debug\net5.0\appsettings.json
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\bin\Debug\net5.0\Backend2.exe
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\bin\Debug\net5.0\Backend2.deps.json
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\bin\Debug\net5.0\Backend2.runtimeconfig.json
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\bin\Debug\net5.0\Backend2.runtimeconfig.dev.json
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\bin\Debug\net5.0\Backend2.dll
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\bin\Debug\net5.0\ref\Backend2.dll
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\bin\Debug\net5.0\Backend2.pdb
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\bin\Debug\net5.0\Backend2.Views.dll
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\bin\Debug\net5.0\Backend2.Views.pdb
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.csprojAssemblyReference.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.AssemblyInfoInputs.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.AssemblyInfo.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.csproj.CoreCompileInputs.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.MvcApplicationPartsAssemblyInfo.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.RazorAssemblyInfo.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.RazorAssemblyInfo.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\staticwebassets\Backend2.StaticWebAssets.Manifest.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\staticwebassets\Backend2.StaticWebAssets.xml
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\scopedcss\bundle\Backend2.styles.css
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.TagHelpers.input.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.TagHelpers.output.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.RazorCoreGenerate.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Razor\Views\Calc\Manual.cshtml.g.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Razor\Views\Calc\ManualWithSeparateHandlers.cshtml.g.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Razor\Views\Calc\ModelBindingInParameters.cshtml.g.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Razor\Views\Calc\ModelBindingInSeparateModel.cshtml.g.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Razor\Views\Calc\Result.cshtml.g.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.RazorTargetAssemblyInfo.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.RazorTargetAssemblyInfo.cs
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.Views.pdb
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.dll
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\ref\Backend2.dll
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.pdb
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.genruntimeconfig.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Web\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.csproj.CopyComplete
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\bin\Debug\net5.0\appsettings.Development.json
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\bin\Debug\net5.0\appsettings.json
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\bin\Debug\net5.0\Backend2.exe
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\bin\Debug\net5.0\Backend2.deps.json
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\bin\Debug\net5.0\Backend2.runtimeconfig.json
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\bin\Debug\net5.0\Backend2.runtimeconfig.dev.json
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\bin\Debug\net5.0\Backend2.dll
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\bin\Debug\net5.0\ref\Backend2.dll
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\bin\Debug\net5.0\Backend2.pdb
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\bin\Debug\net5.0\Backend2.Views.dll
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\bin\Debug\net5.0\Backend2.Views.pdb
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.csprojAssemblyReference.cache
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.GeneratedMSBuildEditorConfig.editorconfig
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.AssemblyInfoInputs.cache
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.AssemblyInfo.cs
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.csproj.CoreCompileInputs.cache
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.MvcApplicationPartsAssemblyInfo.cache
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.RazorAssemblyInfo.cache
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.RazorAssemblyInfo.cs
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\staticwebassets\Backend2.StaticWebAssets.Manifest.cache
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\staticwebassets\Backend2.StaticWebAssets.xml
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\scopedcss\bundle\Backend2.styles.css
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.TagHelpers.input.cache
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.TagHelpers.output.cache
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.RazorCoreGenerate.cache
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Razor\Views\Calc\Manual.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Razor\Views\Calc\ManualWithSeparateHandlers.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Razor\Views\Calc\ModelBindingInParameters.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Razor\Views\Calc\ModelBindingInSeparateModel.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Razor\Views\Calc\Result.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.RazorTargetAssemblyInfo.cache
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.RazorTargetAssemblyInfo.cs
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.Views.pdb
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.dll
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\ref\Backend2.dll
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.pdb
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.genruntimeconfig.cache
+d:\Сериалы, фильмы, аниме\web.931902.basargina.anastasia.lab2.2\Backend2\obj\Debug\net5.0\Backend2.csproj.CopyComplete
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\bin\Debug\net5.0\appsettings.json
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\bin\Debug\net5.0\Backend2.exe
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\bin\Debug\net5.0\Backend2.deps.json
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\bin\Debug\net5.0\Backend2.runtimeconfig.json
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\bin\Debug\net5.0\Backend2.runtimeconfig.dev.json
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\bin\Debug\net5.0\Backend2.dll
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\bin\Debug\net5.0\ref\Backend2.dll
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\bin\Debug\net5.0\Backend2.pdb
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\bin\Debug\net5.0\Backend2.Views.dll
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\bin\Debug\net5.0\Backend2.Views.pdb
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Backend2.csproj.AssemblyReference.cache
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Backend2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Backend2.AssemblyInfoInputs.cache
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Backend2.AssemblyInfo.cs
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Backend2.csproj.CoreCompileInputs.cache
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Backend2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Backend2.RazorAssemblyInfo.cache
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Backend2.RazorAssemblyInfo.cs
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\staticwebassets\Backend2.StaticWebAssets.Manifest.cache
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\staticwebassets\Backend2.StaticWebAssets.xml
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\scopedcss\bundle\Backend2.styles.css
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Backend2.TagHelpers.input.cache
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Backend2.TagHelpers.output.cache
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Backend2.RazorCoreGenerate.cache
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Razor\Views\Calc\Manual.cshtml.g.cs
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Razor\Views\Calc\ManualWithSeparateHandlers.cshtml.g.cs
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Razor\Views\Calc\ModelBindingInParameters.cshtml.g.cs
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Razor\Views\Calc\ModelBindingInSeparateModel.cshtml.g.cs
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Razor\Views\Calc\Result.cshtml.g.cs
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Backend2.RazorTargetAssemblyInfo.cache
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Backend2.RazorTargetAssemblyInfo.cs
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Backend2.Views.pdb
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Backend2.dll
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\ref\Backend2.dll
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Backend2.pdb
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Backend2.genruntimeconfig.cache
+C:\Users\Магбук\Desktop\web-22\WebLab2\Backend2\obj\Debug\net5.0\Backend2.csproj.CopyComplete
